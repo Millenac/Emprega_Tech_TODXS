@@ -3,8 +3,8 @@ Repositório para divulgar todos os projetos dentro da trilha de Formação Base
 
 ```mermaid
 graph TD;
-    Modulo_01("Modulo 01: Logica da programacao") --> Modulo_02("Modulo 02: Estrutura de Dados");
-    Modulo_02 --> Modulo_03("Modulo 03: Programacao Orientada Obj.");
+    Modulo_01("Módulo 01: Lógica da programação") --> Modulo_02("Módulo 02: Estrutura de Dados");
+    Modulo_02 --> Modulo_03("Módulo 03: Programação Orientada Obj.");
 
 ```
 
