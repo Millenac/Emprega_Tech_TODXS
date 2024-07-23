@@ -1,6 +1,11 @@
 # Emprega Tech TODXS
 Repositório para divulgar todos os projetos dentro do programa Fundamentos essenciais de desenvolvimento de Software da Emprega Tech da TODXS.
 
+```mermaid
+graph TD;
+    Módulo #01: Lógica da programação --> Módulo #02: Estrutura de Dados --> Módulo #03: Programação Orientada Obj.;
+```
+
 # Módulo 1
 
 Dentro do módulo 1, foi aprendido os seguintes topicos:
