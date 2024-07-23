@@ -76,7 +76,7 @@ def exibir_tarefas(tarefas, mostrar_menu=True):
         print("-- Lista de Tarefas --\n")
         for i, tarefa in enumerate(tarefas, start=1):
             print(f"{i}. {tarefa}")
-    if mostrar_menu: #Criei esse parametro para mostrar apenas o print das tarefas nas outras funções entrar dentro do while
+    if mostrar_menu: #Criei esse parametro para mostrar apenas o print das tarefas nas outras funções e ignorar o while.
         while True:
             try:
                 entrada = input("\nDigite enter para voltar ao menu: ")
