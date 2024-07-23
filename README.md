@@ -1,5 +1,5 @@
 # Emprega Tech TODXS
-Repositório para divulgar todos os projetos dentro do programa Fundamentos essenciais de desenvolvimento de Software da Emprega Tech da TODXS.
+Repositório para divulgar todos os projetos dentro da trilha de Formação Base de Desenvolvimento de Software da Emprega Tech da TODXS. Que é composto pelos seguintes módulos:
 
 ```mermaid
 graph TD;
