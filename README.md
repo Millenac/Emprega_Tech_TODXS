@@ -20,7 +20,7 @@ Dentro do módulo 1, foi aprendido os seguintes topicos:
 
 4. Unidade – Listas, tuplas, dicionários, matrizes e funções com recursividade.
 
-# Projeto Final: Gerenciador de Tarefas em Python
+## Projeto Final do módulo 1: Gerenciador de Tarefas em Python 2
 
 Este projeto consiste em um programa em Python que permite ao usuário gerenciar uma lista de tarefas. Ele inclui as seguintes funcionalidades:
 
