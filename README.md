@@ -8,7 +8,7 @@ graph TD;
 
 ```
 
-## Módulo 1
+# Módulo 1
 
 Dentro do módulo 1, foi aprendido os seguintes topicos:
 
